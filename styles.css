@@ -7,7 +7,7 @@ html, body {
 }
 
 h1 {
-    background-image: url('../static/head.jpg');
+    background-image: url('head.jpg');
     background-size: cover; /* 拉伸图片以覆盖整个背景区域 */
     background-position: center; /* 居中对齐背景图片 */
     color: white; /* 根据需要调整文字颜色 */
@@ -43,35 +43,35 @@ h1 {
 }
 
 .page:first-of-type .bg-image {
-    background-image: url('../static/1.jpg');
+    background-image: url('1.jpg');
 }
 
 .page:nth-of-type(2) .bg-image {
-    background-image: url('../static/2.jpg');
+    background-image: url('2.jpg');
 }
 
 .page:nth-of-type(3) .bg-image {
-    background-image: url('../static/3.jpg');
+    background-image: url('3.jpg');
 }
 
 .page:nth-of-type(4) .bg-image {
-    background-image: url('../static/4.jpg');
+    background-image: url('4.jpg');
 }
 
 .page:nth-of-type(5) .bg-image {
-    background-image: url('../static/5.jpg');
+    background-image: url('5.jpg');
 }
 
 .page:nth-of-type(6) .bg-image {
-    background-image: url('../static/6.jpeg');
+    background-image: url('6.jpeg');
 }
 
 .page:nth-of-type(7) .bg-image {
-    background-image: url('../static/7.jpg');
+    background-image: url('7.jpg');
 }
 
 .page:nth-of-type(8) .bg-image {
-    background-image: url('../static/8.jpg');
+    background-image: url('8.jpg');
 }
 
 
